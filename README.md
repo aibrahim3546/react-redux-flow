@@ -1,4 +1,4 @@
-##react-redux-flow-boilerplate
+## react-redux-flow-boilerplate
 This is starter boilerplate for **React x Redux**. This boilerplate is beginner friendly. If are new to **Redux** you can get started by reading their documentation [here](https://redux.js.org/basics/usage-with-react).
 
 ## Features

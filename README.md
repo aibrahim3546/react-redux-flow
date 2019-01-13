@@ -4,11 +4,11 @@ This is starter boilerplate for **React x Redux**. This boilerplate is beginner 
 ## Features
 * **React** - react v16
 * **React Router** - react-router v4.0
-* **Redux** - Redux, react-redux, redux-thunk
+* **Redux** - redux, react-redux, redux-thunk
 * **Babel Polyfill**
 * **EsLint** - eslint has been configured for you.
 * **Styled Components** - styled-components is used for styling.
-* **Flow** - Type checker
+* **Flow** - type checker
 
 ## Quick Start
 ```

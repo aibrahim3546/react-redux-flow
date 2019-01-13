@@ -10,9 +10,6 @@ This is starter boilerplate for **React x Redux**. This boilerplate is beginner 
 * **Styled Components** - styled-components is used for styling.
 * **Flow** - Type checker
 
-## react-parcel-mst-flow-boilerplate
-You can also use this as a boilerplate to start your next **ReactJS** project. This boilerplate is beginner friendly and if you dont know mobx you can get started by reading their documentation [here](https://mobx.js.org/intro/overview.html).
-
 ## Quick Start
 ```
 git clone https://github.com/aibrahim3546/react-redux-flow.git

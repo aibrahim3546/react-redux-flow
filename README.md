@@ -13,6 +13,8 @@ This is starter boilerplate for **React x Redux**. This boilerplate is beginner 
 ## Quick Start
 ```
 git clone https://github.com/aibrahim3546/react-redux-flow.git
+cd react-redux-flow
+
 // if using npm
 npm install
 // if using yarn
